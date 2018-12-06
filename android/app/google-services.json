@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "678974217381",
+    "firebase_url": "https://chtohochu-ru.firebaseio.com",
+    "project_id": "chtohochu-ru",
+    "storage_bucket": "chtohochu-ru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678974217381:android:b92509e621d60fee",
+        "android_client_info": {
+          "package_name": "com.chtohochu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678974217381-edscks1n42uitki6dr9jto41s88ia8n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHQ6pYzRCfSOxUswnym6rYpKx9xu9ztzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
